@@ -40,6 +40,15 @@
 
 <hr>
 
+### Project Treble(PT)
+
+支持列表:[https://github.com/phhusson/treble_experimentations/wiki](https://github.com/phhusson/treble_experimentations/wiki)
+
+AOSP下载:[https://github.com/phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/releases
+)
+
+<hr>
+
 ### 赠品(Windows10激活脚本)
 
 [检查期限](https://caijunru.github.io/romlist/src/check.bat)
