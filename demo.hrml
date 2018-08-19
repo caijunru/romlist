@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<title>test</title>
+<head>
+	<script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.js"></script>
+	<meta charset="utf-8">
+	<meta name="Keywords" content="test">
+	<meta name="Description" content="test">
+	<style>
+		html{
+			margin: 0;
+			height: 100%;
+		}
+		body{
+			margin: 0;
+			height: 100%;
+		}
+		.header{
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 50px;
+			text-align: center;
+			background: rgba(30,30,30,1.00);
+			color: #FFFFFF;
+			line-height: 200%;
+			font-size: 24px;
+			font-weight: 100;
+		}
+		.bgcard{
+			overflow: hidden;
+			position: relative;
+			margin: 0 auto;
+			width: 100%;
+			height: 100%;
+		}
+		#cvs{
+			margin: 0;
+			height: 50px;
+			width: 50px;
+			float: left;
+		}
+	</style>
+</head>
+<body>
+	<div class="bgcard" style="background: linear-gradient( to right , #096 , #069 );"></div>
+</body>
+	<div class="header">
+		title
+	</div>
+
