@@ -1,7 +1,5 @@
 ## 为机友们搞的网页
 
-[测试页](/romlist/demo.html)(第一次用Github，测试的时候留下来的。。。不要在意这些细节)
-
 本页地址:[https://caijunru.github.io/romlist](https://caijunru.github.io/romlist)
 
 <hr>
