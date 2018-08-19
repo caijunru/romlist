@@ -51,6 +51,8 @@ AOSP下载:[https://github.com/phhusson/treble_experimentations/releases](https:
 
 ### 赠品(Windows10激活脚本)
 
+<b style="color:red">注意:</b>使用的时候请在文件上右键,以<b style="color:red">管理员身份运行</b>
+
 [检查期限](https://caijunru.github.io/romlist/src/check.bat)
 
 [企业版](https://caijunru.github.io/romlist/src/企业版.bat)
