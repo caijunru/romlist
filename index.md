@@ -36,4 +36,8 @@
 
 ### 赠品(Windows10激活脚本)
 
-[检查期限](https://caijunru.github.io/romlist/src/check.bat) [企业版](https://caijunru.github.io/romlist/src/企业版.bat) [专业版](https://caijunru.github.io/romlist/src/专业版.bat)
+[检查期限](https://caijunru.github.io/romlist/src/check.bat)
+
+[企业版](https://caijunru.github.io/romlist/src/企业版.bat)
+
+[专业版](https://caijunru.github.io/romlist/src/专业版.bat)
