@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-[Test page](\demo.html)
+[Test page](/demo.html)
 
 You can use the [editor on GitHub](https://github.com/caijunru/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
