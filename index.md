@@ -1,4 +1,4 @@
-## 为机友们搞的网页
+## 为机友们做的网页
 
 本页地址:[https://caijunru.github.io/romlist](https://caijunru.github.io/romlist)
 
@@ -31,6 +31,12 @@
 ### SDK 平台工具(包含fastboot,adb)
 
 传送门:[https://developer.android.google.cn/studio/releases/platform-tools](https://developer.android.google.cn/studio/releases/platform-tools)
+
+<hr>
+
+### Magisk 资源汇总
+
+传送门:[https://caijunru.github.io/romlist/page/magisk/](https://caijunru.github.io/romlist/page/magisk/)
 
 <hr>
 
