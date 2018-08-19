@@ -19,3 +19,15 @@
 红米note4/4X(mido/nikle) 传送门:[https://forum.xda-developers.com/redmi-note-4](https://forum.xda-developers.com/redmi-note-4)
 
 <hr>
+
+### MicroG(微谷歌服务框架)
+
+传送门:[https://microg.org/download.html](https://microg.org/download.html)
+
+<hr>
+
+### SDK 平台工具(包含fastboot,adb)
+
+传送门:[https://developer.android.google.cn/studio/releases/platform-tools](https://developer.android.google.cn/studio/releases/platform-tools)
+
+<hr>
