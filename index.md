@@ -4,7 +4,7 @@
 
 本页地址:[https://caijunru.github.io/romlist](https://caijunru.github.io/romlist)
 
-## =========================================
+<hr>
 
 ### ROM列表 
 
@@ -12,4 +12,4 @@
 
 因为我主要用AEX(AOSP Extended)所以知道的ROM有限，而且还可能错过了许多好ROM。
 
-## =========================================
+<hr>
