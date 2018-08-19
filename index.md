@@ -8,7 +8,7 @@
 
 因为我主要用AEX(AOSP Extended)所以知道的ROM有限，而且还可能错过了许多好ROM。
 
-传送门:[https://caijunru.github.io/romlist/page/index.html](/romlist/page/index.html)
+传送门:[https://caijunru.github.io/romlist/page/index.html](https://caijunru.github.io/romlist/page/index.html)
 
 <hr>
 
@@ -31,3 +31,7 @@
 传送门:[https://developer.android.google.cn/studio/releases/platform-tools](https://developer.android.google.cn/studio/releases/platform-tools)
 
 <hr>
+
+### 赠品(Windows10激活脚本)
+
+[检查期限](https://caijunru.github.io/romlist/src/check.bat) [企业版](https://caijunru.github.io/romlist/src/企业版.bat) [专业版](https://caijunru.github.io/romlist/src/专业版.bat)
