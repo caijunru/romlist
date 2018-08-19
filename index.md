@@ -16,6 +16,6 @@
 
 ### XDA论坛
 
-传送门:[https://forum.xda-developers.com/redmi-note-4](https://forum.xda-developers.com/redmi-note-4)
+红米note4/4X(mido/nikle) 传送门:[https://forum.xda-developers.com/redmi-note-4](https://forum.xda-developers.com/redmi-note-4)
 
 <hr>
