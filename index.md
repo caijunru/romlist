@@ -8,7 +8,9 @@
 
 因为我主要用AEX(AOSP Extended)所以知道的ROM有限，而且还可能错过了许多好ROM。
 
-传送门:[https://caijunru.github.io/romlist/page/index.html](https://caijunru.github.io/romlist/page/index.html)
+类原生:[https://caijunru.github.io/romlist/page/index.html](https://caijunru.github.io/romlist/page/index.html)
+
+各版本MIUI:[https://caijunru.github.io/romlist/page/miui/](https://caijunru.github.io/romlist/page/miui/)
 
 <hr>
 
