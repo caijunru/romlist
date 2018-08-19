@@ -31,5 +31,3 @@ MIUI俄罗斯官改包(MIUIpro付费):https://yadi.sk/d/i5nr8I8T3YwDSL
 MIUI AM官改包:http://miui.am/m10b/
 
 MandFX:http://www.manosp.com/archives/category/xiaomi/%e7%ba%a2%e7%b1%b3note4x/
-
-极光ROM:https://pan.baidu.com/wap/link?surl=1skTu9Ut&#list/path=%2F1-ROMS%2F001.%E6%96%B0%E7%89%88%20ROM%2F%E5%B0%8F%E7%B1%B3%2F%E7%BA%A2%E7%B1%B3%20NOTE%204X&page=1
