@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## 为小白们搞的ROM链接网页
 
-[Test page](/romlist/demo.html)
+因为我主要用AEX(AOSP Extended)所以知道的ROM有限，而且还可能错过了许多好ROM。
 
-[Romlist](/romlist/page/index.html)
+[测试页](/romlist/demo.html)(第一次用Github，测试的时候留下来的。。。)
+
+[ROM列表](/romlist/page/index.html)
 
 You can use the [editor on GitHub](https://github.com/caijunru/test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
