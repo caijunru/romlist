@@ -51,6 +51,12 @@ AOSP下载:[https://github.com/phhusson/treble_experimentations/releases](https:
 
 <hr>
 
+### QQ坦白说Uin解密
+
+[https://09l.me/tbs.html](https://09l.me/tbs.html)
+
+<hr>
+
 ### 赠品(Windows10激活脚本)
 
 <b style="color:red">注意:</b>使用的时候请在文件上右键,以<b style="color:red">管理员身份运行</b>
