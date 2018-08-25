@@ -2,6 +2,10 @@
 
 本页地址:[https://caijunru.github.io/romlist](https://caijunru.github.io/romlist)
 
+红米Note4/4X交流群:527347535
+
+我8月26号开学,学校不给带手机,所以我将长期在群里面充当[失踪人口]/笑哭
+
 <hr>
 
 ### ROM列表 
