@@ -28,13 +28,15 @@
 
 ### MicroG(微谷歌服务框架)
 
-实际上我用这个登录Goole Play一直没登上，我拿它最大的用途就是防止谷歌相机停止运行。。。也可以用来避免部分应用报错“运行此程序需要Google Play服务”
+实际上我用这个登录Goole Play一直没登上，我主要拿它用来防止谷歌相机停止运行。。。也可以用来避免部分应用报错“运行此程序需要Google Play服务”
 
 传送门:[https://microg.org/download.html](https://microg.org/download.html)
 
 <hr>
 
 ### SDK 平台工具(包含fastboot,adb)
+
+不搞开发的就认为他是fastboot和adb工具吧。。。
 
 传送门:[https://developer.android.google.cn/studio/releases/platform-tools](https://developer.android.google.cn/studio/releases/platform-tools)
 
@@ -50,12 +52,14 @@
 
 支持列表:[https://github.com/phhusson/treble_experimentations/wiki](https://github.com/phhusson/treble_experimentations/wiki)
 
-AOSP下载:[https://github.com/phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/releases
+AOSP P 镜像下载:[https://github.com/phhusson/treble_experimentations/releases](https://github.com/phhusson/treble_experimentations/releases
 )
 
 <hr>
 
 ### QQ坦白说Uin解密
+
+仅支持6月前的,六月的时候腾讯把Uin码表改了
 
 [https://09l.me/tbs.html](https://09l.me/tbs.html)
 
